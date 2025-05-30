@@ -136,6 +136,7 @@ $result = $conn->query($sql);
     <a href="berita.php">Berita</a>
     <a href="galeri.php">Galeri</a>
     <a href="fasilitas.php">Fasilitas</a>
+    <a href="rekrutmen.php">Rekrutmen</a>
     <a href="ulasan1.php">Ulasan</a> 
     <a href="login.php">Login</a> 
   </nav>

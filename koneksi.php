@@ -2,7 +2,7 @@
 $server   = "localhost";
 $username = "root";
 $password = "";
-$database = "coba";
+$database = "dharma_hotel";
 
 $conn = mysqli_connect($server, $username, $password, $database);
 

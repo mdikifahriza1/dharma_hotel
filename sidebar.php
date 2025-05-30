@@ -9,7 +9,8 @@
         <li><a href="admin-bg.php"><i class="fas fa-image"></i> Background</a></li>
         <li><a href="admin-fasilitas.php"><i class="fas fa-cogs"></i> Fasilitas</a></li>
         <li><a href="admin-galeri.php"><i class="fas fa-images"></i> Galeri</a></li>
-        <li><a href="admin-news.php"><i class="fas fa-newspaper"></i> News</a></li>
+        <li><a href="admin-news.php"><i class="fas fa-file-signature"></i> News</a></li>
+        <li><a href="admin-rekrutmen.php"><i class="fas fa-newspaper"></i> Rekrutmen</a></li>
         <li><a href="admin-pembayaran.php"><i class="fas fa-credit-card"></i> Pembayaran</a></li>
         <li><a href="admin-reservasi.php"><i class="fas fa-calendar-check"></i> Reservasi</a></li>
         <li><a href="admin-room.php"><i class="fas fa-bed"></i> Room</a></li>
