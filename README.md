@@ -25,13 +25,7 @@ Langkah 3: Membuat Database
 
 1. Buka Laragon dan klik Menu > Database > phpMyAdmin atau buka http://localhost/phpmyadmin di browser.
 2. Login (default username: root, tanpa password).
-3. Buat database baru dengan nama:
-
-   dharma_hotel
-
-Langkah 4: Import File SQL
-
-1. Di dalam phpMyAdmin, pilih database dharma_hotel.
+1. Di dalam phpMyAdmin, pastikan tidak ada database dharma_hotel, untuk mencegah konflik.
 2. Klik tab Import.
 3. Pilih file SQL dari folder db (db/dharma_hotel.sql).
 4. Klik Go untuk mulai proses import.
